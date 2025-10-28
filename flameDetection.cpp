@@ -1,5 +1,5 @@
 /*
-Below is a personal project I worked on during the 2024-2025 school year. I utilized an Arduino One, ESP 32 Module, KY-026 Flame Sensor, and made use of several 
+Below is one file from a personal project I worked on during the 2024-2025 school year. I utilized an Arduino One, ESP 32 Module, KY-026 Flame Sensor, and made use of several 
 C++ libraries to give status updates to the user on their winter fire's status.
 */
 #include <WiFi.h>
